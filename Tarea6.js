@@ -1,7 +1,7 @@
 const A = [ 6, 15, -8, 0, -3]; //Crear arreglo
 
 //Definir elementos
-let parn = 0;
+let e = 0;
 let sum = 0;
 let avg = 0;
 
